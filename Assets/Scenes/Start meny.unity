@@ -267,6 +267,7 @@ GameObject:
   - component: {fileID: 531268773}
   - component: {fileID: 531268772}
   - component: {fileID: 531268775}
+  - component: {fileID: 531268776}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -392,6 +393,18 @@ MonoBehaviour:
     m_MipBias: 0
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
+--- !u!114 &531268776
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 531268771}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5522ebfc8603c644f967f19cc5dd63e9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &556108155
 GameObject:
   m_ObjectHideFlags: 0
@@ -610,7 +623,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 647031162}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 531268776}
+        m_TargetAssemblyTypeName: mainmeny, Assembly-CSharp
+        m_MethodName: Playgame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &647031162
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -914,7 +939,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1694948937}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 531268776}
+        m_TargetAssemblyTypeName: mainmeny, Assembly-CSharp
+        m_MethodName: Quitgame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1694948937
 MonoBehaviour:
   m_ObjectHideFlags: 0
