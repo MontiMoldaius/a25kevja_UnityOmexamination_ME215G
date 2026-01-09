@@ -235,10 +235,10 @@ TextureImporter:
       name: spritesheet-characters-default_0
       rect:
         serializedVersion: 2
-        x: 24
-        y: 774
-        width: 80
-        height: 100
+        x: 0
+        y: 769
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,10 +257,10 @@ TextureImporter:
       name: spritesheet-characters-default_1
       rect:
         serializedVersion: 2
-        x: 153
-        y: 774
-        width: 80
-        height: 100
+        x: 128
+        y: 769
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,10 +279,10 @@ TextureImporter:
       name: spritesheet-characters-default_2
       rect:
         serializedVersion: 2
-        x: 280
-        y: 774
-        width: 83
-        height: 86
+        x: 256
+        y: 769
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -301,10 +301,10 @@ TextureImporter:
       name: spritesheet-characters-default_3
       rect:
         serializedVersion: 2
-        x: 411
-        y: 773
-        width: 80
-        height: 99
+        x: 384
+        y: 769
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -323,10 +323,10 @@ TextureImporter:
       name: spritesheet-characters-default_4
       rect:
         serializedVersion: 2
-        x: 537
-        y: 773
-        width: 86
-        height: 99
+        x: 512
+        y: 769
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -345,10 +345,10 @@ TextureImporter:
       name: spritesheet-characters-default_5
       rect:
         serializedVersion: 2
-        x: 668
-        y: 773
-        width: 83
-        height: 99
+        x: 640
+        y: 769
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -367,10 +367,10 @@ TextureImporter:
       name: spritesheet-characters-default_6
       rect:
         serializedVersion: 2
-        x: 796
-        y: 773
-        width: 84
-        height: 99
+        x: 768
+        y: 769
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -389,10 +389,10 @@ TextureImporter:
       name: spritesheet-characters-default_7
       rect:
         serializedVersion: 2
-        x: 21
-        y: 646
-        width: 86
-        height: 97
+        x: 0
+        y: 641
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -411,10 +411,10 @@ TextureImporter:
       name: spritesheet-characters-default_8
       rect:
         serializedVersion: 2
-        x: 151
-        y: 645
-        width: 85
-        height: 103
+        x: 128
+        y: 641
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -433,10 +433,10 @@ TextureImporter:
       name: spritesheet-characters-default_9
       rect:
         serializedVersion: 2
-        x: 282
-        y: 645
-        width: 80
-        height: 100
+        x: 256
+        y: 641
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -455,10 +455,10 @@ TextureImporter:
       name: spritesheet-characters-default_10
       rect:
         serializedVersion: 2
-        x: 411
-        y: 645
-        width: 80
-        height: 100
+        x: 384
+        y: 641
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -477,10 +477,10 @@ TextureImporter:
       name: spritesheet-characters-default_11
       rect:
         serializedVersion: 2
-        x: 538
-        y: 645
-        width: 83
-        height: 86
+        x: 512
+        y: 641
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -499,10 +499,10 @@ TextureImporter:
       name: spritesheet-characters-default_12
       rect:
         serializedVersion: 2
-        x: 669
-        y: 644
-        width: 80
-        height: 99
+        x: 640
+        y: 641
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -521,10 +521,10 @@ TextureImporter:
       name: spritesheet-characters-default_13
       rect:
         serializedVersion: 2
-        x: 795
-        y: 644
-        width: 86
-        height: 99
+        x: 768
+        y: 641
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -543,10 +543,10 @@ TextureImporter:
       name: spritesheet-characters-default_14
       rect:
         serializedVersion: 2
-        x: 23
-        y: 515
-        width: 83
-        height: 99
+        x: 0
+        y: 513
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -565,10 +565,10 @@ TextureImporter:
       name: spritesheet-characters-default_15
       rect:
         serializedVersion: 2
-        x: 151
-        y: 515
-        width: 84
-        height: 99
+        x: 128
+        y: 513
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -587,10 +587,10 @@ TextureImporter:
       name: spritesheet-characters-default_16
       rect:
         serializedVersion: 2
-        x: 279
-        y: 517
-        width: 86
-        height: 97
+        x: 256
+        y: 513
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -609,10 +609,10 @@ TextureImporter:
       name: spritesheet-characters-default_17
       rect:
         serializedVersion: 2
-        x: 409
-        y: 516
-        width: 85
-        height: 103
+        x: 384
+        y: 513
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -631,10 +631,10 @@ TextureImporter:
       name: spritesheet-characters-default_18
       rect:
         serializedVersion: 2
-        x: 540
-        y: 516
-        width: 80
-        height: 100
+        x: 512
+        y: 513
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -653,10 +653,10 @@ TextureImporter:
       name: spritesheet-characters-default_19
       rect:
         serializedVersion: 2
-        x: 669
-        y: 516
-        width: 80
-        height: 100
+        x: 640
+        y: 513
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -675,10 +675,10 @@ TextureImporter:
       name: spritesheet-characters-default_20
       rect:
         serializedVersion: 2
-        x: 796
-        y: 516
-        width: 83
-        height: 86
+        x: 768
+        y: 513
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -697,10 +697,10 @@ TextureImporter:
       name: spritesheet-characters-default_21
       rect:
         serializedVersion: 2
-        x: 24
-        y: 386
-        width: 80
-        height: 99
+        x: 0
+        y: 385
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -719,10 +719,10 @@ TextureImporter:
       name: spritesheet-characters-default_22
       rect:
         serializedVersion: 2
-        x: 150
-        y: 386
-        width: 86
-        height: 99
+        x: 128
+        y: 385
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -741,10 +741,10 @@ TextureImporter:
       name: spritesheet-characters-default_23
       rect:
         serializedVersion: 2
-        x: 281
-        y: 386
-        width: 83
-        height: 99
+        x: 256
+        y: 385
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -763,10 +763,10 @@ TextureImporter:
       name: spritesheet-characters-default_24
       rect:
         serializedVersion: 2
-        x: 409
-        y: 386
-        width: 84
-        height: 99
+        x: 384
+        y: 385
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -785,10 +785,10 @@ TextureImporter:
       name: spritesheet-characters-default_25
       rect:
         serializedVersion: 2
-        x: 537
-        y: 388
-        width: 86
-        height: 97
+        x: 512
+        y: 385
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -807,10 +807,10 @@ TextureImporter:
       name: spritesheet-characters-default_26
       rect:
         serializedVersion: 2
-        x: 667
-        y: 387
-        width: 85
-        height: 103
+        x: 640
+        y: 385
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -829,10 +829,10 @@ TextureImporter:
       name: spritesheet-characters-default_27
       rect:
         serializedVersion: 2
-        x: 798
-        y: 387
-        width: 80
-        height: 100
+        x: 768
+        y: 385
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -851,10 +851,10 @@ TextureImporter:
       name: spritesheet-characters-default_28
       rect:
         serializedVersion: 2
-        x: 24
-        y: 258
-        width: 80
-        height: 100
+        x: 0
+        y: 257
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -873,10 +873,10 @@ TextureImporter:
       name: spritesheet-characters-default_29
       rect:
         serializedVersion: 2
-        x: 151
-        y: 258
-        width: 83
-        height: 86
+        x: 128
+        y: 257
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -895,10 +895,10 @@ TextureImporter:
       name: spritesheet-characters-default_30
       rect:
         serializedVersion: 2
-        x: 282
+        x: 256
         y: 257
-        width: 80
-        height: 99
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -917,10 +917,10 @@ TextureImporter:
       name: spritesheet-characters-default_31
       rect:
         serializedVersion: 2
-        x: 408
+        x: 384
         y: 257
-        width: 86
-        height: 99
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -939,10 +939,10 @@ TextureImporter:
       name: spritesheet-characters-default_32
       rect:
         serializedVersion: 2
-        x: 539
+        x: 512
         y: 257
-        width: 83
-        height: 99
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -961,10 +961,10 @@ TextureImporter:
       name: spritesheet-characters-default_33
       rect:
         serializedVersion: 2
-        x: 667
+        x: 640
         y: 257
-        width: 84
-        height: 99
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -983,10 +983,10 @@ TextureImporter:
       name: spritesheet-characters-default_34
       rect:
         serializedVersion: 2
-        x: 795
-        y: 259
-        width: 86
-        height: 97
+        x: 768
+        y: 257
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1005,10 +1005,10 @@ TextureImporter:
       name: spritesheet-characters-default_35
       rect:
         serializedVersion: 2
-        x: 22
+        x: 0
         y: 129
-        width: 85
-        height: 103
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1027,10 +1027,10 @@ TextureImporter:
       name: spritesheet-characters-default_36
       rect:
         serializedVersion: 2
-        x: 153
+        x: 128
         y: 129
-        width: 80
-        height: 100
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1049,10 +1049,10 @@ TextureImporter:
       name: spritesheet-characters-default_37
       rect:
         serializedVersion: 2
-        x: 282
+        x: 256
         y: 129
-        width: 80
-        height: 100
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1071,10 +1071,10 @@ TextureImporter:
       name: spritesheet-characters-default_38
       rect:
         serializedVersion: 2
-        x: 409
+        x: 384
         y: 129
-        width: 83
-        height: 86
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1093,10 +1093,10 @@ TextureImporter:
       name: spritesheet-characters-default_39
       rect:
         serializedVersion: 2
-        x: 540
-        y: 128
-        width: 80
-        height: 99
+        x: 512
+        y: 129
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1115,10 +1115,10 @@ TextureImporter:
       name: spritesheet-characters-default_40
       rect:
         serializedVersion: 2
-        x: 666
-        y: 128
-        width: 86
-        height: 99
+        x: 640
+        y: 129
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1137,10 +1137,10 @@ TextureImporter:
       name: spritesheet-characters-default_41
       rect:
         serializedVersion: 2
-        x: 797
-        y: 128
-        width: 83
-        height: 99
+        x: 768
+        y: 129
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1159,10 +1159,10 @@ TextureImporter:
       name: spritesheet-characters-default_42
       rect:
         serializedVersion: 2
-        x: 22
-        y: 0
-        width: 84
-        height: 98
+        x: 0
+        y: 1
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1181,10 +1181,10 @@ TextureImporter:
       name: spritesheet-characters-default_43
       rect:
         serializedVersion: 2
-        x: 150
+        x: 128
         y: 1
-        width: 86
-        height: 97
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1203,10 +1203,10 @@ TextureImporter:
       name: spritesheet-characters-default_44
       rect:
         serializedVersion: 2
-        x: 280
-        y: 0
-        width: 85
-        height: 103
+        x: 256
+        y: 1
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1225,7 +1225,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f9fa6278bc133554b80abe1fae96e449
     internalID: 0
     vertices: []
     indices: 

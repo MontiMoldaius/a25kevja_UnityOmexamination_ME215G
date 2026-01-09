@@ -86,11 +86,11 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 1
+  spriteExtrude: 0
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 252
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -143,11 +143,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 770
-        width: 257
-        height: 257
+        y: 771
+        width: 256
+        height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -164,12 +164,12 @@ TextureImporter:
       name: spritesheet-backgrounds-default_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 513
-        width: 257
-        height: 258
+        x: 256
+        y: 771
+        width: 256
+        height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -186,12 +186,12 @@ TextureImporter:
       name: spritesheet-backgrounds-default_2
       rect:
         serializedVersion: 2
-        x: 256
-        y: 770
-        width: 258
-        height: 257
+        x: 512
+        y: 771
+        width: 256
+        height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -208,12 +208,12 @@ TextureImporter:
       name: spritesheet-backgrounds-default_3
       rect:
         serializedVersion: 2
-        x: 256
-        y: 513
-        width: 258
-        height: 258
+        x: 768
+        y: 771
+        width: 256
+        height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -230,12 +230,12 @@ TextureImporter:
       name: spritesheet-backgrounds-default_4
       rect:
         serializedVersion: 2
-        x: 513
-        y: 770
-        width: 258
-        height: 257
+        x: 0
+        y: 515
+        width: 256
+        height: 255
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -252,12 +252,12 @@ TextureImporter:
       name: spritesheet-backgrounds-default_5
       rect:
         serializedVersion: 2
-        x: 513
-        y: 513
-        width: 258
-        height: 258
+        x: 256
+        y: 515
+        width: 256
+        height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -274,12 +274,12 @@ TextureImporter:
       name: spritesheet-backgrounds-default_6
       rect:
         serializedVersion: 2
-        x: 770
-        y: 770
-        width: 257
-        height: 257
+        x: 512
+        y: 515
+        width: 256
+        height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -296,12 +296,12 @@ TextureImporter:
       name: spritesheet-backgrounds-default_7
       rect:
         serializedVersion: 2
-        x: 770
-        y: 513
-        width: 257
-        height: 258
+        x: 768
+        y: 515
+        width: 256
+        height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -319,11 +319,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 256
-        width: 257
-        height: 258
+        y: 259
+        width: 256
+        height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -340,12 +340,12 @@ TextureImporter:
       name: spritesheet-backgrounds-default_9
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 257
-        height: 257
+        x: 256
+        y: 259
+        width: 256
+        height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -362,12 +362,12 @@ TextureImporter:
       name: spritesheet-backgrounds-default_10
       rect:
         serializedVersion: 2
-        x: 256
-        y: 256
-        width: 258
-        height: 258
+        x: 512
+        y: 259
+        width: 256
+        height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -384,12 +384,12 @@ TextureImporter:
       name: spritesheet-backgrounds-default_11
       rect:
         serializedVersion: 2
-        x: 256
-        y: 0
-        width: 258
-        height: 257
+        x: 768
+        y: 259
+        width: 256
+        height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -406,12 +406,12 @@ TextureImporter:
       name: spritesheet-backgrounds-default_12
       rect:
         serializedVersion: 2
-        x: 513
-        y: 256
-        width: 258
-        height: 258
+        x: 0
+        y: 3
+        width: 256
+        height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -428,12 +428,12 @@ TextureImporter:
       name: spritesheet-backgrounds-default_13
       rect:
         serializedVersion: 2
-        x: 770
-        y: 256
-        width: 257
-        height: 258
+        x: 256
+        y: 3
+        width: 256
+        height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -446,11 +446,55 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: spritesheet-backgrounds-default_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac26b06f24d459149879553f1fff2388
+      internalID: 1968795268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-backgrounds-default_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f21e7bf61f5b64b98e3e6fefcbbe25
+      internalID: 1067946096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 39a9ee085cfce2349b611f469be9761f
     internalID: 0
     vertices: []
     indices: 
@@ -466,6 +510,8 @@ TextureImporter:
       spritesheet-backgrounds-default_11: -8502506042668986419
       spritesheet-backgrounds-default_12: 3309586673410561248
       spritesheet-backgrounds-default_13: 8497162566832711072
+      spritesheet-backgrounds-default_14: 1968795268
+      spritesheet-backgrounds-default_15: 1067946096
       spritesheet-backgrounds-default_2: 6611049747431034928
       spritesheet-backgrounds-default_3: -1080398848617342108
       spritesheet-backgrounds-default_4: 2997489317670278343
